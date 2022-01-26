@@ -1,6 +1,6 @@
 /*Navigation bar*/
 nav {
-    background-color: #e3f2fd;
+    background-color: #f0f0f0;
 }
 
 /*Body Layout*/
@@ -38,9 +38,8 @@ section {
 /*Form*/
 
 form {
-    background-color: #e3f2fd;
+    background-color: #f0f0f0;
     padding: 1rem;
-    border-radius: 1rem;
     text-align: center;
 }
 
@@ -48,4 +47,10 @@ form {
 
 #backTop {
     float: right;
+}
+
+/*Footer*/
+
+footer {
+    text-align: center;
 }
